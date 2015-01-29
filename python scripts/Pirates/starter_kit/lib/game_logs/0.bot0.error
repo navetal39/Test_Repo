@@ -1,0 +1,500 @@
+turn   85 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   89 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   90 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   91 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   92 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   93 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   94 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   95 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   96 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   97 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   98 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn   99 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  100 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  101 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  102 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  103 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  104 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  104 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  105 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  105 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  106 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  106 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  107 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  107 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  108 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  108 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  109 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  109 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  110 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  110 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  111 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  111 bot [MyBot] invalid actions:
+o 17 14 s # You tried to move a pirate but dont have one at this location
+turn  112 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  112 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  113 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  113 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  114 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  114 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  115 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  115 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  116 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  116 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  117 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  117 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  118 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  118 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  119 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  119 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  120 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  120 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  121 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  121 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  122 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  122 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  123 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  123 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  124 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  124 bot [MyBot] invalid actions:
+o 17 14 e # You tried to move a pirate but dont have one at this location
+turn  125 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  126 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  127 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  128 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  129 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  130 bot MyBot ignored actions:
+o 25 41 e # move blocked - entering enemy zone
+turn  131 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  132 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  133 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  134 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  135 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  136 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  137 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  138 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  139 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  140 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  141 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  142 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  143 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  144 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  145 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  146 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  147 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  148 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  149 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  150 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  151 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  152 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  153 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  154 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  155 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  156 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+turn  157 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  158 bot [MyBot] invalid actions:
+o 25 41 e # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  159 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  160 bot [MyBot] invalid actions:
+o 25 41 w # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  161 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  162 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  163 bot [MyBot] invalid actions:
+o 25 41 w # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  164 bot [MyBot] invalid actions:
+o 25 41 w # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  165 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  166 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  167 bot [MyBot] invalid actions:
+o 25 41 w # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  168 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  169 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+o 25 41 w # You tried to move a pirate but dont have one at this location
+turn  170 bot [MyBot] invalid actions:
+o 25 41 w # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  171 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  172 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  173 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  174 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  175 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  176 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  177 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  178 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  179 bot [MyBot] invalid actions:
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  180 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  181 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  182 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  183 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  184 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  185 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  186 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  187 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  188 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  189 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  190 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  191 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  192 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  193 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  194 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  195 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  196 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+o 27 35 e # You tried to move a pirate but dont have one at this location
+turn  197 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  198 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  199 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  200 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  201 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  202 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  203 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  204 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  205 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  206 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  207 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  208 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  209 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  210 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  211 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  212 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  213 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  214 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  215 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  216 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  217 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  218 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  219 bot [MyBot] invalid actions:
+o 23 36 s # You tried to move a pirate but dont have one at this location
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  220 bot [MyBot] invalid actions:
+o 22 36 s # You tried to move a pirate but dont have one at this location
+turn  281 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  282 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  283 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  284 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  285 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  286 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  287 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  288 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  289 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  290 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  291 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  292 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  293 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  294 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  295 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  296 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  297 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  298 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  299 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  300 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  301 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  302 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  303 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  304 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  305 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  306 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  307 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  308 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  309 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  310 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  311 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  312 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  313 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
+o 9 22 e # You tried to move a pirate but dont have one at this location
+turn  314 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  315 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  316 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  317 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  318 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  319 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  320 bot [MyBot] invalid actions:
+o 9 22 e # You tried to move a pirate but dont have one at this location
+o 10 23 e # You tried to move a pirate but dont have one at this location
+turn  321 bot [MyBot] invalid actions:
+o 10 23 e # You tried to move a pirate but dont have one at this location
