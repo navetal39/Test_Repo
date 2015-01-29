@@ -1,0 +1,13 @@
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Release\מיון בסיס.exe
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Release\מיון בסיס.pdb
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Release\Unit4.dll
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.exe
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.pdb
+C:\Users\ETO\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.exe
+C:\Users\ETO\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.pdb
+C:\Users\ETO\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\bin\Release\מיון בסיס.exe
+C:\Users\ETO\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\bin\Release\מיון בסיס.pdb
+C:\Users\ETO\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.csprojResolveAssemblyReference.cache
+C:\Users\Tamir\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.exe
+C:\Users\Tamir\Google Drive\לימודים\מדעי המחשב\פרויקטים\פרק 8\מיון בסיס\מיון בסיס\obj\x86\Release\מיון בסיס.pdb

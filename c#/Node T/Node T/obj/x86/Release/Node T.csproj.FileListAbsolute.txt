@@ -1,0 +1,10 @@
+C:\Users\student\AppData\Local\Temporary Projects\Node T\bin\Release\Node T.exe
+C:\Users\student\AppData\Local\Temporary Projects\Node T\bin\Release\Node T.pdb
+C:\Users\student\AppData\Local\Temporary Projects\Node T\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\Node T\obj\x86\Release\Node T.exe
+C:\Users\student\AppData\Local\Temporary Projects\Node T\obj\x86\Release\Node T.pdb
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 7 - Dynamic Data Structures for Collection Representation\Node T\Node T\obj\x86\Release\Node T.exe
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 7 - Dynamic Data Structures for Collection Representation\Node T\Node T\obj\x86\Release\Node T.pdb
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 7 - Dynamic Data Structures for Collection Representation\Node T\Node T\obj\x86\Release\ResolveAssemblyReference.cache
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 7 - Dynamic Data Structures for Collection Representation\Node T\Node T\bin\Release\Node T.exe
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 7 - Dynamic Data Structures for Collection Representation\Node T\Node T\bin\Release\Node T.pdb

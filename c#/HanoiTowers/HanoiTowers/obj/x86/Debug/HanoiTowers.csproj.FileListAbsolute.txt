@@ -1,0 +1,6 @@
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\bin\Debug\HanoiTowers.exe
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\bin\Debug\HanoiTowers.pdb
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\bin\Debug\Unit4.dll
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\obj\x86\Debug\HanoiTowers.exe
+W:\י''א מדמ''ח 2013-2014\§נוה טל§\▲Episode 8 - Stacks and Queues\HanoiTowers\HanoiTowers\obj\x86\Debug\HanoiTowers.pdb

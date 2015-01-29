@@ -1,0 +1,6 @@
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Debug\מיון בסיס.exe
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Debug\מיון בסיס.pdb
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\bin\Debug\Unit4.dll
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Debug\מיון בסיס.exe
+C:\Users\Nave\Google Drive\לימודים\מדמ''ח\מיון בסיס\מיון בסיס\obj\x86\Debug\מיון בסיס.pdb

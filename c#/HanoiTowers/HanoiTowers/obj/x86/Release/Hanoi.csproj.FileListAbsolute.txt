@@ -1,0 +1,5 @@
+C:\Users\student\AppData\Local\Temporary Projects\Hanoi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\student\AppData\Local\Temporary Projects\Hanoi\bin\Release\Hanoi.exe
+C:\Users\student\AppData\Local\Temporary Projects\Hanoi\bin\Release\Hanoi.pdb
+C:\Users\student\AppData\Local\Temporary Projects\Hanoi\obj\x86\Release\Hanoi.exe
+C:\Users\student\AppData\Local\Temporary Projects\Hanoi\obj\x86\Release\Hanoi.pdb
