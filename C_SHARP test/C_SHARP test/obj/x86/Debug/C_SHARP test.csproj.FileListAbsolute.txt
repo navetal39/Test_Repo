@@ -1,0 +1,4 @@
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\bin\Debug\C_SHARP test.exe
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\bin\Debug\C_SHARP test.pdb
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\obj\x86\Debug\C_SHARP test.exe
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\obj\x86\Debug\C_SHARP test.pdb

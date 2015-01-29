@@ -1,0 +1,6 @@
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\bin\Release\C_SHARP test.exe
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\bin\Release\C_SHARP test.pdb
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\obj\x86\Release\C_SHARP test.exe
+C:\Users\user\AppData\Local\Temporary Projects\C_SHARP test\obj\x86\Release\C_SHARP test.pdb
+C:\Users\user\Documents\GitHub\Test_Repos\C_SHARP test\C_SHARP test\obj\x86\Release\C_SHARP test.exe
+C:\Users\user\Documents\GitHub\Test_Repos\C_SHARP test\C_SHARP test\obj\x86\Release\C_SHARP test.pdb
